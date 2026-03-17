@@ -1,0 +1,4 @@
+crewai[litellm]
+langchain-google-genai
+python-docx
+streamlit
